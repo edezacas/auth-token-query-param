@@ -1,0 +1,17 @@
+{
+  "id": "auth-token-query-param",
+  "name": "Auth token query param",
+  "description": "Allow login to Humhub with a simple string token as query param",
+  "keywords": [
+  ],
+  "authors": [
+    {
+      "name": "Eduard Deza",
+      "email": "ed@ascetic.io"
+    }
+  ],
+  "version": "0.1",
+  "humhub": {
+    "minVersion": "1.0"
+  }
+}
